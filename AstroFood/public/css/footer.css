@@ -1,0 +1,60 @@
+.content{
+    width: 100%;
+    padding: 65px 15%;
+    display: flex;
+    background-color: #34495e;
+    color: #ecf0f1;
+    justify-content: space-between;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.content h4{
+    letter-spacing: 4px;
+    margin-bottom: 10px;
+}
+
+.content-1 a{
+    display: block;
+    text-decoration: none;
+    padding: 2px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-size: small;
+    color: #ecf0f1;
+}
+
+.content-2{
+    text-align: center;
+}
+.content-2 form input{
+    width: 350px;
+    height: 45px;
+    border-radius: 4px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    outline: none;
+    border: none;
+}
+.content-2 form button{
+    background: transparent;
+    border: 2px solid #ecf0f1;
+    border-radius: 20px;
+    padding: 8px 30px;
+    color: #ecf0f1;
+    font-weight: bold;
+}
+
+.copyright{
+    height: 40px;
+    padding: 12px 0;
+    background-color: #222f3e;
+    text-align: center;
+}
+.copyright p{
+    font-size: 14px;
+    word-spacing: 2.5px;
+    color: #ecf0f1;
+}
+.copyright p span{
+    color: white;
+}
