@@ -1,0 +1,39 @@
+#address_field{
+	border:none;
+	outline: none;
+	height: 100px; 
+	font-family: Tahoma; 
+	font-size: medium; 
+	font-weight: bold; 
+	font-style: italic;
+}
+
+#order-prompt-message{
+    position: absolute;
+    right: 0;
+    bottom: 150px;
+    left: 0;
+    padding: 0 50px;
+    color: limegreen;
+    text-shadow: 4px 4px 8px #4cd137;
+    font-size: large;
+}
+.tab-area{
+    border-radius: 4px;
+    margin: 0 auto;
+    width: 100%;
+    padding: 5px;
+}
+.tab-area tr td{
+    padding: 5px;
+}
+.tab-area tr td input{
+    background: #27ae60;
+    border-radius: 5px;
+    padding: 4px;
+    font-size: 15px;
+    font-weight: bold;
+    color: #222f3e;
+    font-family: calibri heading;
+    width: 100%;
+}
